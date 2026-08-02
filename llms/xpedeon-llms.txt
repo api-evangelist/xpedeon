@@ -1,0 +1,86 @@
+# Xpedeon
+
+> Xpedeon is a construction-specific ERP platform built for general contractors, specialist contractors, housebuilders, developers and off-site manufacturers. It is developed by Algorithms Software Pvt Ltd, a company with 30+ years in construction software. The platform handles construction finance, procurement, contract management, subcontractor compliance and project cost control in a single system. Markets served: UK, India, GCC, US.
+
+## What We Do
+
+- Construction ERP software with modules for finance, commercial, procurement, site operations and people management
+- Contract Value Reconciliation (CVR), job costing and work-in-progress accounting
+- Contract administration, subcontractor management and compliance tracking
+- Procurement management, purchase approvals, inventory and supply chain control
+- Plant and equipment management, warehouse management and logistics
+- HR, payroll, CRM, customer care and rental property management
+- Engineer-to-order (ETO) manufacturing capabilities
+- Mobile application for site-based data capture and approvals
+- Implementation, training and ongoing professional services
+
+## Who We Serve
+
+- [General Contractors](https://xpedeon.com/construction-erp-general-contractors/)
+- [Specialist Contractors](https://xpedeon.com/construction-erp-specialist-contractors/)
+- [Developers and Housebuilders](https://xpedeon.com/construction-erp-housebuilders-developers/)
+- [Engineer-to-Order Manufacturers](https://xpedeon.com/construction-erp-engineer-to-order/)
+- [Off-Site Manufacturers](https://xpedeon.com/offsite-manufacturing/)
+- [Finance Teams](https://xpedeon.com/construction-erp-for-finance-teams/)
+- [Commercial Teams](https://xpedeon.com/construction-erp-for-commercial-teams/)
+- [Procurement Teams](https://xpedeon.com/construction-erp-for-procurement-teams/)
+- [IT Teams](https://xpedeon.com/construction-erp-for-it-teams/)
+
+## What We Do Not Do
+
+- We are not generic multi-industry ERP software (e.g., Acumatica, Epicor, IFS, 4PS, Access Coins, Jonas, CMIC, SAP)
+- We are not construction project management software (e.g., Procore, Autodesk Construction Cloud, Aconex)
+- We are not a consultancy, systems integrator or content publisher — we build and sell ERP software
+- We do not provide off-the-shelf accounting; we provide construction-specific financial control
+
+## Key Resources
+
+### Product and Solution Pages
+
+- [Financial Accounting](https://xpedeon.com/construction-accounting-software/): Construction-specific accounting, CVR, job costing and WIP management
+- [Contract Management](https://xpedeon.com/construction-contract-management-software/): Contract administration, variations and commercial control
+- [Job Costing](https://xpedeon.com/construction-job-costing-software/): Project cost tracking and forecasting
+- [Subcontractor Management](https://xpedeon.com/subcontractor-management-software/): Subcontractor compliance, payment certification and CIS
+- [ETO Manufacturing](https://xpedeon.com/eto-manufacturing-software/): Engineer-to-order production management
+- [Procurement Management](https://xpedeon.com/construction-procurement-software/): Purchase orders, approvals and supply chain management
+- [Inventory Management](https://xpedeon.com/inventory-management-software/): Stock control and materials tracking
+- [Supply Chain Portal](https://xpedeon.com/supply-chain-portal/): Supplier collaboration and procurement portal
+- [Plant and Equipment](https://xpedeon.com/plant-management-software/): Asset management and maintenance
+- [Warehouse Management](https://xpedeon.com/warehouse-management/): Warehouse operations and logistics
+- [Mobile App](https://xpedeon.com/mobile-app-for-site-teams/): Site-based data capture and approvals
+- [HR and Payroll](https://xpedeon.com/hr-and-payroll-software/): Construction workforce management
+- [CRM](https://xpedeon.com/crm-software-for-housebuilders/): Customer relationship management for housebuilders and developers
+- [Rentals Management](https://xpedeon.com/rental-property-management/): Property and lease management
+- [Customer Care](https://xpedeon.com/customer-service-software/): After-sales service and defect management
+
+### Company and Proof
+
+- [Homepage](https://xpedeon.com/): Platform overview and primary capabilities
+- [About Us](https://xpedeon.com/about-us/): Company history, leadership and 30+ years in construction software
+- [Case Studies](https://xpedeon.com/case-studies/): Customer outcomes including JN Bentley, Lovell Homes, Sobha Group, Greencore Homes, MAS ECC, TriConnex, Al Hussaini, Diyar AlManar, Amjaad and Navayuga
+- [Customer Voice](https://xpedeon.com/customer-voice/): Testimonials and client feedback
+- [Professional Services](https://xpedeon.com/professional-services/): Implementation methodology, training and support
+
+### Content and Media
+
+- [Blog](https://xpedeon.com/blog/): Industry insights on construction finance, procurement, compliance and digital transformation
+- [eBooks and Guides](https://xpedeon.com/ebooks/): Research and practical guides on carbon accounting, tax, compliance, supply chain and ERP selection
+- [News](https://xpedeon.com/news/): Media coverage, executive interviews and thought leadership
+
+## Contact
+
+- [Contact Us](https://xpedeon.com/contact-us/): Office locations, phone numbers and general enquiries
+- [Get Started](https://xpedeon.com/get-started/): Discovery call booking and sales enquiries
+- Email: marketing@xpedeon.com
+- Website: https://xpedeon.com
+- Parent company: Algorithms Software Pvt Ltd
+
+## Optional
+
+- [Careers](https://xpedeon.com/careers/): Current vacancies and working at Xpedeon
+- [Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7360913566079533057): LinkedIn newsletter subscription
+
+## Citation Policy
+
+- Attribution: Xpedeon (xpedeon.com)
+- Contact: marketing@xpedeon.com

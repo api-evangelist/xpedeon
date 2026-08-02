@@ -1,0 +1,36 @@
+generated: '2026-07-21'
+method: searched
+description: >-
+  Results of probing the /.well-known/ discovery surface on the Xpedeon
+  website hosts (xpedeon.com, www.xpedeon.com). Xpedeon publishes no public
+  API and no /.well-known/ discovery documents; every probed path returned
+  404 (the site's catch-all control also returns 404, so these statuses are
+  real). The one discovery document the site DOES publish is /llms.txt
+  (HTTP 200), saved verbatim at llms/xpedeon-llms.txt. Statuses recorded at
+  probe time. No developer/API subdomains resolve (developer., developers.,
+  api., docs., apidocs.xpedeon.com all fail to connect); support.xpedeon.com
+  (JIRA customer support portal) returns 200.
+hosts:
+  - host: https://xpedeon.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+      - path: /security.txt
+        status: 404
+      - path: /llms.txt
+        status: 200
+        file: ../llms/xpedeon-llms.txt
+  - host: https://www.xpedeon.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /llms.txt
+        status: 200
